@@ -1,0 +1,27 @@
+p{
+    color:rgb(18, 68, 206)
+    
+}
+pre{
+    font-style: italic;
+}
+img{
+    border-color: rgba(121, 97, 2, 0.63);
+}
+h1{
+    font-family: 'Times New Roman', Times, serif"
+}
+h1{
+    color: darkmagenta;
+}
+h3{
+    color:darkslategray
+}
+a{
+    color:firebrick
+}
+p{
+    font-size: 14px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    letter-spacing: 1px;
+}
